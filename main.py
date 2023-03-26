@@ -13,5 +13,11 @@
 #     file.write("Hello world!")
 #
 # Append data to existing file
-with open("my_file.txt", mode="a") as file:
-    file.write("\nI also like ice cream.")
+# with open("my_file.txt", mode="a") as file:
+#     file.write("\nI also like ice cream.")
+
+# Write to non-existent file
+with open("new_file.txt", mode="w") as file:
+    file.write("This is a new file")
+
+

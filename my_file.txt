@@ -1,3 +1,1 @@
-Hello, my name is Anu.
-I am 15 years old.
-My favourite food is biriyani.
+Hello world! 
